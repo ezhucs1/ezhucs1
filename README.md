@@ -1,52 +1,93 @@
-# 👋 Hi, I'm Evan Zhu  
-
-🎓 **M.S. Computer Science (Cybersecurity)** @ Arizona State University  
-💡 Passionate about cybersecurity, AI/ML research, and cloud security automation  
-🌎 Combining healthcare and technology to create safer, smarter digital systems  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/ezhucs1">Evan Zhu</a></h1>
+<h3 align="center">M.S. Computer Science (Cybersecurity) @ Arizona State University</h3>
+<p align="center">
+  💡 Passionate about cybersecurity, cloud automation, and AI-driven security systems.<br>
+  🌎 Merging healthcare and technology to build safer digital environments.<br>
+  ☁️ Currently exploring AI/ML intrusion detection, IAM automation, and cloud security engineering.
+</p>
 
 ---
 
 ### 🧠 Tech Stack
 
-**Programming Languages**  
-Python • C/C++ • Java • JavaScript/TypeScript • R • SQL • Bash • Assembly  
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white)
 
-**Frameworks / Libraries / Tools**  
-Flask • React • Vite • Django • SQLAlchemy • Socket • Scapy  
+#### 🧩 Frameworks / Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![Socket](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-4E9A06?style=flat)
 
-**Cloud & DevOps**  
-GCP • Docker • Terraform • Kubernetes • Git / GitHub  
+#### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**Security & Reverse Engineering**  
-Wireshark • IDA Pro • Ghidra • GDB • Nmap • Red Hat • Kali Linux  
+#### 🔐 Security & Reverse Engineering
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-FF6C37?style=flat)
+![Ghidra](https://img.shields.io/badge/Ghidra-F00000?style=flat)
+![GDB](https://img.shields.io/badge/GDB-000000?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-**AI / Machine Learning**  
-Vertex AI • Gemini CLI • PyTorch • TensorFlow • Transformers • Scikit-learn • NumPy • Pandas  
-
-**Certifications**  
-🎓 Google Cybersecurity Certificate (in progress)
+#### 🤖 AI / Machine Learning
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-34A853?style=flat&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-### 🔭 Current Focus
-- Building secure, scalable cloud infrastructures with least privilege IAM  
-- Exploring AI-driven intrusion detection and LLM security applications  
-- Developing healthcare + AI systems for safer clinical decision-making  
+### 🧭 Current Focus
+- 🔐 Building **AI-enhanced IAM systems** for automated access control  
+- ☁️ Optimizing **DevSecOps pipelines** using Terraform, GCP, and Docker  
+- 🧠 Researching **LLM security & explainable AI** for healthcare applications  
 
 ---
 
-### 📈 Featured Projects
-- 🛡️ **Secure MCP Server** – AI-driven IAM system with auto access control & revocation  
-- 🤖 **LLM Medication Chatbot** – Flask + Vertex AI web app for medication safety  
-- ☁️ **Auto-Scheduling System** – Constraint-based healthcare shift optimizer  
-- 📊 **MNQ Trading LSTM Pipeline** – Real-time futures forecasting and backtesting  
+### 🚀 Highlighted Projects
+| Project | Description |
+|----------|--------------|
+| 🛡️ [Secure MCP Server](https://github.com/ezhucs1/MCP-server) | AI-driven IAM system that automates access approvals and revocations |
+| 🤖 [LLM Medication Chatbot](https://github.com/ezhucs1/LLM_medication_chatbox) | Flask + Vertex AI chatbot for safe medication lookup using FDA data |
+| ☁️ [Auto-Scheduling System](https://github.com/ezhucs1/auto_scheduling) | Healthcare shift optimizer with constraint-based logic |
+| 📊 [MNQ LSTM Trading Pipeline](https://github.com/ezhucs1/MNQ-trading) | Real-time futures forecast model with live data and backtesting |
 
 ---
 
-### 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/evan-zhu)  
-🧠 [GitHub](https://github.com/ezhucs1)  
-✉️ ezhu4@asu.edu  
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezhucs1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhucs1&layout=compact&theme=tokyonight" />
+</p>
 
 ---
-> “Protect systems. Empower people. Build the future responsibly.”  
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/evan-zhu"><img src="https://img.shields.io/badge/LinkedIn-Evan_Zhu-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:ezhu4@asu.edu"><img src="https://img.shields.io/badge/Email-ezhu4@asu.edu-red
