@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 Programming Languages / Frameworks / Tools
+### 🧠 Programming Languages / Frameworks / Techs
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
