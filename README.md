@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/ezhucs1">Evan Zhu</a></h1>
 <h3 align="center">M.S. Computer Science (Cybersecurity) @ Arizona State University</h3>
 <p align="center">
-  💡 Passionate about cybersecurity, cloud automation, and AI-driven security systems.<br>
-  🌎 Merging healthcare and technology to build safer digital environments.<br>
-  ☁️ Currently exploring AI/ML intrusion detection, IAM automation, and cloud security engineering.
+  💡 Passionate about cybersecurity, cloud automation, and AI-driven defense systems.<br>
+  🌎 Bridging healthcare and technology to build safer digital ecosystems.<br>
+  ☁️ Exploring ML-based intrusion detection, IAM automation, and cloud security.
 </p>
 
 ---
@@ -61,9 +61,9 @@
 ---
 
 ### 🧭 Current Focus
-- 🔐 Building **AI-enhanced IAM systems** for automated access control  
-- ☁️ Optimizing **DevSecOps pipelines** using Terraform, GCP, and Docker  
-- 🧠 Researching **LLM security & explainable AI** for healthcare applications  
+- 🔐 Building **AI-enhanced IAM automation** with minimum-access control (SSAR)  
+- ☁️ Deploying **DevSecOps pipelines** using Terraform, GCP, and Kubernetes  
+- 🧠 Researching **machine learning intrusion detection** using Scikit-learn and TensorFlow  
 
 ---
 
@@ -71,23 +71,21 @@
 | Project | Description |
 |----------|--------------|
 | 🛡️ [Secure MCP Server](https://github.com/ezhucs1/MCP-server) | AI-driven IAM system that automates access approvals and revocations |
-| 🤖 [LLM Medication Chatbot](https://github.com/ezhucs1/LLM_medication_chatbox) | Flask + Vertex AI chatbot for safe medication lookup using FDA data |
-| ☁️ [Auto-Scheduling System](https://github.com/ezhucs1/auto_scheduling) | Healthcare shift optimizer with constraint-based logic |
-| 📊 [MNQ LSTM Trading Pipeline](https://github.com/ezhucs1/MNQ-trading) | Real-time futures forecast model with live data and backtesting |
+| 🧩 [SSAR](https://github.com/ezhucs1/SSAR) | Self-Service Access Request system with automated IAM policy enforcement |
+| 🔍 [ML Intrusion Detection](https://github.com/ezhucs1/ML_Intrusion_Detection) | Machine learning–based detection model trained on network intrusion datasets |
+| ☁️ [Auto-Scheduling System](https://github.com/ezhucs1/auto_scheduling) | Constraint-based healthcare shift optimizer |
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezhucs1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhucs1&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evan-zhu"><img src="https://img.shields.io/badge/LinkedIn-Evan_Zhu-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:ezhu4@asu.edu"><img src="https://img.shields.io/badge/Email-ezhu4@asu.edu-red
+  <a href="mailto:ezhu4@asu.edu"><img src="https://img.shields.io/badge/Email-ezhu4@asu.edu-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/ezhucs1"><img src="https://img.shields.io/badge/GitHub-ezhucs1-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
+
+---
+
+> “Protect systems. Empower people. Build the future responsibly.” 🌱
