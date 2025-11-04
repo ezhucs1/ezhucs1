@@ -63,7 +63,7 @@
 ### 🧭 Current Focus
 - 🔐 Building **AI-enhanced IAM automation** with minimum-access control (SSAR)  
 - ☁️ Deploying **DevSecOps pipelines** using Terraform, GCP, and Kubernetes  
-- 🧠 Researching **machine learning intrusion detection** using Scikit-learn and TensorFlow  
+- 💡 Researching **machine learning intrusion detection** using Scikit-learn and TensorFlow  
 
 ---
 
