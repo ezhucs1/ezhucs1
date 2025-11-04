@@ -58,20 +58,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
----
-
-### 🧭 Current Focus
-- 🧩 **SSAR (Self-Service Access Request):** Designing an automated IAM access approval and revocation system using Flask, JWT, and policy-based control.  
-- 🔍 **ML Intrusion Detection:** Building supervised models (Random Forest, SVM, DNN) to detect malicious network activity from real-world datasets.  
-- ☁️ **MCP Server:** Experimenting with AI agents and secure API integration to automate role-based cloud access workflows.  
-- 🩺 **Auto-Scheduling System:** Improving healthcare shift scheduling through constraint-based optimization and fairness logic.
 
 ---
 
 ### 🚀 Highlighted Projects
 | Project | Description |
 |----------|--------------|
-| 🛡️ [Secure MCP Server](https://github.com/ezhucs1/MCP-server) | AI-driven IAM system that automates access approvals and revocations |
 | 🧩 [SSAR](https://github.com/ezhucs1/SSAR) | Self-Service Access Request system with automated IAM policy enforcement |
 | 🔍 [ML Intrusion Detection](https://github.com/ezhucs1/ML_Intrusion_Detection) | Machine learning–based detection model trained on network intrusion datasets |
 | ☁️ [Auto-Scheduling System](https://github.com/ezhucs1/auto_scheduling) | Constraint-based healthcare shift optimizer |
