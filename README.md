@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/ezhucs1">Evan Zhu</a></h1>
 <h3 align="center">M.S. Computer Science (Cybersecurity) @ Arizona State University</h3>
 <p align="center">
-  💡 Passionate about cybersecurity, cloud automation, and AI-driven defense systems.<br>
-  🌎 Bridging healthcare and technology to build safer digital ecosystems.<br>
-  ☁️ Exploring ML-based intrusion detection, IAM automation, and cloud security.
+  💡 Passionate about cybersecurity, cloud automation, and AI-driven defense systems<br>
+  🌎 Bridging healthcare and technology to build safer digital ecosystems<br>
+  ☁️ Exploring ML-based intrusion detection, IAM automation, and cloud security
 </p>
 
 ---
