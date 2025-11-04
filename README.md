@@ -61,9 +61,10 @@
 ---
 
 ### 🧭 Current Focus
-- 🔐 Building **AI-enhanced IAM automation** with minimum-access control (SSAR)  
-- ☁️ Deploying **DevSecOps pipelines** using Terraform, GCP, and Kubernetes  
-- 💡 Researching **machine learning intrusion detection** using Scikit-learn and TensorFlow  
+- 🧩 **SSAR (Self-Service Access Request):** Designing an automated IAM access approval and revocation system using Flask, JWT, and policy-based control.  
+- 🔍 **ML Intrusion Detection:** Building supervised models (Random Forest, SVM, DNN) to detect malicious network activity from real-world datasets.  
+- ☁️ **MCP Server:** Experimenting with AI agents and secure API integration to automate role-based cloud access workflows.  
+- 🩺 **Auto-Scheduling System:** Improving healthcare shift scheduling through constraint-based optimization and fairness logic.
 
 ---
 
